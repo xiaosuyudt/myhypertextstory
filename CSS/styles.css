@@ -1,0 +1,53 @@
+body {
+
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVV9QZXIe-pXnD7zZcSVENNapvV9TINmnp52T29pP1j9Rkn2d4Yw");
+  background-position: bottom right;
+  padding-right: :68px;
+  margin-bottom:50px;
+  background-repeat: repeat;
+  background-color: #2F4F4F;
+}
+
+p{
+  font-size: 66PX;
+  color: lime;
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+
+ }
+
+a:hover{
+	color: lime;
+	background-color: steelblue;
+}
+
+a: link{
+
+	color: hotpink;
+}
+
+a:visited{
+	color: hotpink;
+}
+
+h1{
+  font-size: 100px;
+  color: hotpink;
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+
+}
+
+img {
+  border-radius: 15%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+body {
+
+	margin-bottom: 100px;
+
+}
